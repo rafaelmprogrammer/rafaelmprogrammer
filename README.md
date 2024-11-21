@@ -31,9 +31,9 @@ WHAT CAN YOU EXPECT FROM MY GITHUB:
 
 ☝️ Exercises from classes
 
-✌️ Very simple projects
+✌️ Projects from Front End, Back End and Full Stack
 
-👌 Complex Projects 
+👌 Projects from Game Dev and VFX
 
 
 
