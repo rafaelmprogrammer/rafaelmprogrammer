@@ -15,6 +15,15 @@ I'm focused on learning new technologies and constantly improving my skills, whe
 
 I'm ready to contribute creative solutions to challenging projects and add value to a company that shares the same passion for growth and innovation. 🚀
 
+--------
+
+WHAT AM I DOING RIGHT NOW:
+
+➡️ A Full Stack course at Tokio School
+
+➡️ A Web Development BootCamp with Dr. Angela Yu
+
+➡️ Some of my personal projects
 <!---
 rafaelmprogrammer/rafaelmprogrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
