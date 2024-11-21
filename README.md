@@ -24,6 +24,20 @@ WHAT AM I DOING RIGHT NOW:
 ➡️ A Web Development BootCamp with Dr. Angela Yu
 
 ➡️ Some of my personal projects
+
+--------
+
+WHAT CAN YOU EXPECT FROM MY GITHUB:
+
+☝️ Exercises from classes
+
+✌️ Very simple projects
+
+👌 Complex Projects 
+
+
+
+
 <!---
 rafaelmprogrammer/rafaelmprogrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
